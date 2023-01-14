@@ -21,7 +21,7 @@ I discovered Data Science since 2020 and I fell in love with this profession. Si
 2. Probability
 3. Machine Learning : Supervised and Unsupervised Learning
 4. Deep Learning : ANN, CNN, RNN, Computer Vision, NLP
-5. Model Optimization an Deployment on Cloud
+5. Model Optimization and Deployment on Cloud
 5. Data Mining
 6. Financial Risk Management
 7. Actuarial Science
