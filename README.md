@@ -25,7 +25,7 @@ I discovered Data Science since 2020 and I fell in love with this profession. Si
 5. Data Mining
 6. Financial Risk Management
 7. Actuarial Science
-8. Progaming Language
+8. Progamming Language
 * Python, R, SQL
 * EXCEL, VBA, Power BI, Tableau
 * WORD, Power Point, LaTeX/Beamer
